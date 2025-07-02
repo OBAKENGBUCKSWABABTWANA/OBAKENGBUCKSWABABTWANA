@@ -1,91 +1,104 @@
-# 👋 Hi, I'm Obakeng Mdonyelwa
+# 👨‍💻 Obakeng Mdonyelwa
 
-🎓 Computer Science Graduate| 💡 Innovator | 🧠 Problem Solver  
-📍 Based in Limpopo, South Africa | 🌍 From Klerksdorp, North West  
+🎓 *Computer Science Graduate* | 💡 *Tech Innovator* | 🛠 *Problem Solver*
+📍 Limpopo, South Africa | 🌍 From Klerksdorp, North West
 
----
-
-## 🚀 About Me
-
-I'm a passionate software developer and data science enthusiast with hands-on experience in:
-
-- 📱 Building impactful, user-centric applications
-- 📊 Data analytics using Python, SAS, and R
-- 💻 Full-stack development with Django & modern frontend tools
-- 🔐 Network security and concurrent systems
-- 🤖 AI-powered and IoT-driven systems
-
-I love turning ideas into reality through code, especially solutions that empower communities and drive meaningful change.
+> *“Code isn’t just syntax—it’s a creative force that empowers people.”*
 
 ---
 
-## 🔧 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
-![SAS](https://img.shields.io/badge/-SAS-blue?style=for-the-badge&logo=sas)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Developer working animation"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🧠 About Me
 
-### 🛍️ Campus e-Commerce Platform
-An intuitive shopping platform for students on campus to buy, sell, and deliver essentials.
+I’m **Obakeng**, a passionate developer and data science enthusiast on a mission to turn problems into purposeful solutions through code. I build applications that:
 
-![ecommerce](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+* 🛠 Solve **real-world challenges**
+* 📊 Extract **value from data**
+* 🤖 Integrate **AI & IoT** to enhance everyday life
+* 🔒 Strengthen **cybersecurity and systems reliability**
+
+> I build with impact in mind—especially for communities often overlooked by mainstream tech.
+
+---
+
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,java,js,react,html,css,r,sas,git,vscode,linux,bash,firebase" />
+</p>
+
+---
+
+## 🌟 Featured Projects Showcase
+
+### 🛍️ Campus eCommerce App
+
+A digital ecosystem for students to trade and deliver essentials effortlessly.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80%" alt="ecommerce project demo"/>
+</p>
 
 ---
 
 ### ⚡ Smart Energy Monitoring System
-A real-time dashboard and IoT solution to track and optimize energy usage.
 
-![energy](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+IoT + Data to visualize, control, and optimize electricity consumption at home.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="80%" alt="energy dashboard"/>
+</p>
 
 ---
 
 ### 🔐 AI Security System
-A facial recognition system using OpenCV and ML models to automate access control.
 
-![ai-security](https://media.giphy.com/media/Q7LHmoFwVP6Yc/giphy.gif)
+Face detection, access logs, and real-time alerts for secure entry.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc/giphy.gif" width="80%" alt="face recognition system"/>
+</p>
 
 ---
 
-### 🔭 Data Science & Analytics
+### 📊 Data Science + Analytics
 
-From predictive models to correlation matrices and visual storytelling.
+From spreadsheets to prediction—using models to understand and forecast reality.
 
-![data-science](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
-
-> **Explore my pinned repositories below for more!**
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="80%" alt="data science example"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obakengmdonyelwa&show_icons=true&theme=tokyonight" alt="Obakeng's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obakengmdonyelwa&theme=tokyonight" alt="Obakeng's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=obakengmdonyelwa&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obakengmdonyelwa&theme=algolia&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)
-- 📧 obakengmdonyelwa@gmail.com
-- 📱 084 462 0193
+> Open to collaborations, freelance, internships, and building next-gen software products.
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/obakeng-mdonyelwa-0bb96a235)
+* 📧 [obakengmdonyelwa@gmail.com](mailto:obakengmdonyelwa@gmail.com)
+* 📱 +27 84 462 0193
+* 🧠 [GitHub Portfolio](https://github.com/OBAKENGBUCKSWABABTWANA)
 
 ---
 
-> “Code is the closest thing we have to a superpower.” 💥 Let's build something amazing!
+## 💬 Favorite Quote
+
+> **“You don't need to be famous to change the world. Just solve the right problems.”**
+
+
+
